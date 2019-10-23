@@ -1,13 +1,13 @@
 {
-  "main.css": "/srmitharwal.github.io/static/css/main.039ecac1.chunk.css",
-  "main.js": "/srmitharwal.github.io/static/js/main.43a4babf.chunk.js",
-  "main.js.map": "/srmitharwal.github.io/static/js/main.43a4babf.chunk.js.map",
-  "runtime~main.js": "/srmitharwal.github.io/static/js/runtime~main.517ce79e.js",
-  "runtime~main.js.map": "/srmitharwal.github.io/static/js/runtime~main.517ce79e.js.map",
-  "static/js/2.ec14eb01.chunk.js": "/srmitharwal.github.io/static/js/2.ec14eb01.chunk.js",
-  "static/js/2.ec14eb01.chunk.js.map": "/srmitharwal.github.io/static/js/2.ec14eb01.chunk.js.map",
-  "index.html": "/srmitharwal.github.io/index.html",
-  "precache-manifest.a8daa65e3fcfcd46941c28494947b405.js": "/srmitharwal.github.io/precache-manifest.a8daa65e3fcfcd46941c28494947b405.js",
-  "service-worker.js": "/srmitharwal.github.io/service-worker.js",
-  "static/css/main.039ecac1.chunk.css.map": "/srmitharwal.github.io/static/css/main.039ecac1.chunk.css.map"
+  "main.css": "/static/css/main.1a24cbd1.chunk.css",
+  "main.js": "/static/js/main.40cc0571.chunk.js",
+  "main.js.map": "/static/js/main.40cc0571.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
+  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
+  "static/js/2.ec14eb01.chunk.js": "/static/js/2.ec14eb01.chunk.js",
+  "static/js/2.ec14eb01.chunk.js.map": "/static/js/2.ec14eb01.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.8918881e79ed611b6eab3354e7490d26.js": "/precache-manifest.8918881e79ed611b6eab3354e7490d26.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.1a24cbd1.chunk.css.map": "/static/css/main.1a24cbd1.chunk.css.map"
 }

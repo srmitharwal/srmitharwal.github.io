@@ -29,5 +29,5 @@
   ],
   "predeploy": "yarn run build",
   "deploy": "gh-pages -d build",
-  "homepage": "https://srmitharwal.github.io/srmitharwal.github.io"
+  "homepage": "https://srmitharwal.github.io/"
 }
